@@ -1,0 +1,14 @@
+
+.DS_Store
+
+# Environments
+.env
+.venv
+
+*.pyc
+__pycache__/
+
+# SQLite database files
+*.sqlite3
+
+# static/
